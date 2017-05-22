@@ -45,8 +45,8 @@ header{
 #good_picture{
   width: 24px;
   position: absolute;
-  left: 50px
-  top: 50px
+  left: 50px;
+  top: 50px;
 }
 aside{
   background-color: blue;
